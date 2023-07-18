@@ -1,0 +1,55 @@
+pishrafte
+;;;///..@@@@@@%%%%%%^^^^
+123456789zxcvbn,mnkhifufyu
+pishra
+3
+Odd
+1
+2
+6
+8
+1
+123456789zxcvbn,mnkhifufyu
+ascsac
+4
+TF
+false
+123456789zxcvbn,mnkhifufyu
+examtest
+3
+Even?
+1
+3
+5
+2
+4
+3
+Sin60
+1/2
+3/2
+1/5
+1/20
+1
+4
+elephant can fly.
+false
+oop
+;;;///..@@@@@@%%%%%%^^^^
+123456789zxcvbn,mnkhifufyu
+firstExam
+3
+choose odd number?
+2
+4
+6
+1
+4
+4
+elephant can fly.
+false
+1
+my name is ........ naziri........
+mohammadreza
+2
+explain...
+shit
